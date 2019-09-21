@@ -6,12 +6,12 @@
 
 # Asset Store Plugins
 
-## Published
-+ [Fast Volumetric Lighting](https://assetstore.unity.com/packages/slug/152973)
++ Published
+    + [Fast Volumetric Lighting](https://assetstore.unity.com/packages/slug/152973)
 
-## Pending Review
-+ [Fantastic SSR Water](https://assetstore.unity.com/packages/slug/154020)
-+ [Easy Shake Editor](https://assetstore.unity.com/packages/slug/154472)
++ Pending Review
+    + [Fantastic SSR Water](https://assetstore.unity.com/packages/slug/154020)
+    + [Easy Shake Editor](https://assetstore.unity.com/packages/slug/154472)
 
 ---
 
