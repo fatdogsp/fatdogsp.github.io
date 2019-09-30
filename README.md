@@ -8,9 +8,9 @@
 
 + Published
     + [Fast Volumetric Lighting](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/fast-volumetric-lighting-152973?aid=1101l85Tr&pubref=BGVL)
+    + [Fantastic SSR Water](https://assetstore.unity.com/packages/vfx/shaders/fantastic-ssr-water-154020?aid=1101l85Tr)
 
 + Pending Review
-    + [Fantastic SSR Water](https://assetstore.unity.com/packages/slug/154020)
     + [Easy Shake Editor](https://assetstore.unity.com/packages/slug/154472)
 
 ---
