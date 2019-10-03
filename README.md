@@ -12,7 +12,7 @@
     + [Easy Shake Editor](https://assetstore.unity.com/packages/slug/154472)
 
 + Pending Review
-    ...
+    + None
 
 ---
 
