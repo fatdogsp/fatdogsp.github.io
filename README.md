@@ -14,6 +14,7 @@
     + [LWRP SSR Water](https://assetstore.unity.com/packages/vfx/shaders/lwrp-ssr-water-155402?aid=1101l85Tr)
 
 + Pending Review
+    + [Easy Grass Cutter](https://assetstore.unity.com/packages/slug/156255)
 
 ---
 
@@ -24,6 +25,7 @@
 + [Easy Shake Editor](https://www.evernote.com/l/AiA8cz1o0o5HU46EvX64UMMthrz1umZyYIs/)
 + [LWRP Volumetric Lighting](https://www.evernote.com/l/AiCoVJ2AxG9Hm5dUFBj4WkSMErgWon_C8JA/)
 + [LWRP SSR Water](https://www.evernote.com/l/AiAR9lnBxMxB65yqSFhUfVNFH2sZ0rPW2EM/)
++ [Easy Grass Cutter](https://www.evernote.com/l/AiDdYZhLobFIWp99nADT60K-I3hbCr-bCCc/)
 
 ---
 
@@ -34,3 +36,4 @@
 + [Easy Shake Editor](https://youtu.be/3abRLv57SCc)
 + [LWRP Volumetric Lighting](https://youtu.be/6v_wtVz6bbQ)
 + [LWRP SSR Water](https://youtu.be/8KtdqC4iNH4)
++ [Easy Grass Cutter](https://youtu.be/w4RdSubYFR4)
