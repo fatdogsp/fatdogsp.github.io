@@ -12,9 +12,9 @@
     + [Easy Shake Editor](https://assetstore.unity.com/packages/tools/camera/easy-shake-editor-154472?aid=1101l85Tr)
     + [LWRP Volumetric Lighting](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/lwrp-volumetric-lighting-155676?aid=1101l85Tr)
     + [LWRP SSR Water](https://assetstore.unity.com/packages/vfx/shaders/lwrp-ssr-water-155402?aid=1101l85Tr)
+    + [Easy Grass Cutter](https://assetstore.unity.com/packages/slug/156255)
 
 + Pending Review
-    + [Easy Grass Cutter](https://assetstore.unity.com/packages/slug/156255)
 
 ---
 
