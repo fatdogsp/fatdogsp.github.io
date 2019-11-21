@@ -16,6 +16,7 @@
     + [uNature Cutter](https://assetstore.unity.com/packages/tools/integration/unature-cutter-156603?aid=1101l85Tr)
 
 + Pending Review
+    + [The Pretty Girls](https://assetstore.unity.com/packages/slug/157964)
 
 ---
 
@@ -28,6 +29,7 @@
 + [LWRP SSR Water](https://www.evernote.com/l/AiAR9lnBxMxB65yqSFhUfVNFH2sZ0rPW2EM/)
 + [Easy Grass Cutter](https://www.evernote.com/l/AiDdYZhLobFIWp99nADT60K-I3hbCr-bCCc/)
 + [uNature Cutter](https://www.evernote.com/l/AiBqnfRgAVhO_pNLklhMWHRf6cmMytoRKq8/)
++ [The Pretty Girls](https://www.evernote.com/l/AiC5n-5_LhdOD6uxtbAogzLd8PJkjfmplWc/)
 
 ---
 
