@@ -1,6 +1,3 @@
-
-# Introduction
-
 # Published
 
 + [Easy Shake Editor](https://assetstore.unity.com/packages/tools/camera/easy-shake-editor-154472?aid=1101l85Tr)	
