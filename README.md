@@ -1,5 +1,9 @@
 ## Published
 
++ [The Pretty Girls](https://assetstore.unity.com/packages/slug/157964)
+	+ [Document](https://www.evernote.com/l/AiC5n-5_LhdOD6uxtbAogzLd8PJkjfmplWc/)
+
+
 + [Easy Grass Cutter](https://assetstore.unity.com/packages/tools/particles-effects/easy-grass-cutter-156255?aid=1101l85Tr)
 	+ [Document](https://www.evernote.com/l/AiDdYZhLobFIWp99nADT60K-I3hbCr-bCCc/)
 	+ [Youtube](https://youtu.be/nf39qDJ3fio)
@@ -31,7 +35,4 @@
 
 ## Pending Review
 
-+ [The Pretty Girls](https://assetstore.unity.com/packages/slug/157964)
-	+ [Document](https://www.evernote.com/l/AiC5n-5_LhdOD6uxtbAogzLd8PJkjfmplWc/)
-
-
+    ...
