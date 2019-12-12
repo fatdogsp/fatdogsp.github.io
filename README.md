@@ -1,6 +1,6 @@
 ## Published
 
-+ [The Pretty Girls](https://assetstore.unity.com/packages/slug/157964)
++ [The Pretty Girls](https://assetstore.unity.com/packages/3d/characters/humanoids/the-pretty-girls-157964?aid=1101l85Tr)
 	+ [Document](https://www.evernote.com/l/AiC5n-5_LhdOD6uxtbAogzLd8PJkjfmplWc/)
 
 
