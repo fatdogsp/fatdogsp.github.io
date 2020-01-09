@@ -3,7 +3,7 @@
 + [The Pretty Girls](https://assetstore.unity.com/packages/3d/characters/humanoids/the-pretty-girls-157964?aid=1101l85Tr)
 	+ [Document](https://www.evernote.com/l/AiC5n-5_LhdOD6uxtbAogzLd8PJkjfmplWc/)
 
-+ [Simple Face Makeup](https://assetstore.unity.com/packages/slug/159956)
++ [Simple Face Makeup](https://assetstore.unity.com/packages/3d/characters/humanoids/simple-face-makeup-159956?aid=1101l85Tr)
 	+ [Document](https://www.evernote.com/l/AiBfb_-mDbJGjJPS3bOTllszBzDzVPDghp8/)
 
 + [Easy Grass Cutter](https://assetstore.unity.com/packages/tools/particles-effects/easy-grass-cutter-156255?aid=1101l85Tr)
