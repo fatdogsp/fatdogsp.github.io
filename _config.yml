@@ -97,4 +97,16 @@ page-mathjax: false
 
 # Friends
 friends: [
+  {
+    title: "unitybuzz",
+    href: "http://unitybuzz.com/stats/"
+  },
+  {
+    title: "Mirza's Realm",
+    href: "http://www.mirzabeig.com/"
+  },
+  {
+    title: "恶毒的狗",
+    href: "https://baddogzz.github.io/"
+  }
 ]
