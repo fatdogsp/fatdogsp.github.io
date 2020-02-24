@@ -114,9 +114,9 @@ There are four example scenes:
 
 Choose **linear space** and check them for details.
 
-**LWRP version** is tested using unity **2019.1** and unity **2019.2**.
+**LWRP demos** are tested using unity **2019.1** and unity **2019.2**.
 
-**URP version** is tested using unity **2019.3**.
+**URP demos** are tested using unity **2019.3**.
 
 ## Customer Support:
 
