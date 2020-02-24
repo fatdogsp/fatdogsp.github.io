@@ -54,7 +54,7 @@ To run the shader correctly, each **RenderPipelineAsset** should toggle **Depth 
 
 You can also use my **RenderPipelineAsset** in the **Settings** folders.
 
-That's all, check the demo scenes, and it should work, :)
+That's all, check the demo scenes and enjoy it, :)
 
 ## Shader properties
 
