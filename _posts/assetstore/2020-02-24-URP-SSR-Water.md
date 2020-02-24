@@ -31,7 +31,9 @@ This is the **LWRP/URP** version of [Fatanstic SSR Water](https://assetstore.uni
 
 ## How to use
 
-After importing the package, you'll see the folders listed like this:
+First of all, you should install **LWRP** or **URP** related packages, assign **LightweightRenderPipelineAsset** or **UniversalRenderPipelineAsset** in graphic settings.
+
+Then you can import my package, folders are listed like this:
 
 ![](/img/urp-ssr-water/screenshot4.png)
 
@@ -50,7 +52,9 @@ To run the shader correctly, each **RenderPipelineAsset** should toggle **Depth 
 
 ![](/img/urp-ssr-water/screenshot5.png)
 
-That's all, you can check the demo scenes, and it should work, :)
+You can also use my **RenderPipelineAsset** in the **Settings** folders.
+
+That's all, check the demo scenes, and it should work, :)
 
 ## Shader properties
 
