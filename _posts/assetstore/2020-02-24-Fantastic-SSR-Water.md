@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LWRP/URP SSR Water"
+title: "Fatanstic SSR Water"
 subtitle: ""
 author: "Bad Fat Dog"
 header-mask: 0.2
@@ -9,9 +9,7 @@ tags:
   - My Assets
 ---
 
-## LWRP/URP SSR Water
-
-This is the **LWRP/URP** version of [Fatanstic SSR Water](https://assetstore.unity.com/packages/vfx/shaders/fantastic-ssr-water-154020?aid=1101l85Tr).
+## Fantastic SSR Water
 
 ![](/img/urp-ssr-water/screenshot1.png)
 
@@ -29,32 +27,11 @@ This is the **LWRP/URP** version of [Fatanstic SSR Water](https://assetstore.uni
 + Realistic refraction.
 + Forward SSR, mobile ready.
 
-## How to use
+### How to use
 
-First of all, you should install **LWRP** or **URP** related packages, assign **LightweightRenderPipelineAsset** or **UniversalRenderPipelineAsset** in graphic settings.
-
-Then import my package, folders are listed like this:
-
-![](/img/urp-ssr-water/screenshot4.png)
-
-**ForwardSSRWater_Common** contains common resources such as wave textures and skybox.
-
-**ForwardSSRWater_LWRP** is the version of **LWRP**, **ForwardSSRWater_URP** is the version of **URP**, choose the one you need and delete the other one.
-
-Shader is named like this:
-
-| render-pipeline | shader name |
-| ---- | ---- |
-| LWRP | BadDog/LWRP/BGWater |
-| URP | BadDog/URP/BGWater |
-
-To run the shader correctly, each **RenderPipelineAsset** should toggle **Depth Texture** and **Opaque Texture**:
-
-![](/img/urp-ssr-water/screenshot5.png)
-
-You can also use my **RenderPipelineAsset** in the **Settings** folders.
-
-That's all, check the demo scenes and enjoy it, :)
++ SSR water need **camera depth texture**, so you should enable depth mode or just add **"CameraDepthToggle"** component to your main camera.
++ Assign **"BadDog/BGWater"** shader to your water material, then assgin the material to your water plane. 
++ Adjust material parameters, and that's all.
 
 ## Shader properties
 
@@ -88,10 +65,7 @@ Specular color is always **(0.04, 0.04, 0.04)**, and you can adjust it's intensi
 
 ![](/img/urp-ssr-water/screenshot10.png)
 
-Refaction needs **Opaque Texture** enabled.
-![](/img/urp-ssr-water/screenshot11.png)
-
-OpaqueTexture's uv is distorted by wave normal, and you can adjust the final **distort scale**.
+Refaction needs Unity's grab pass. GrabTexture's uv is distorted by wave normal, and you can adjust the final distort scale.
 
 #### IBL and SSR
 
@@ -118,9 +92,7 @@ There are four example scenes:
 
 Choose **linear space** and check them for details.
 
-**LWRP demos** are tested using unity **2019.1** and unity **2019.2**.
-
-**URP demos** are tested using unity **2019.3**.
+All demos are tested using unity 2017, 2018 and 2019.
 
 ## Customer Support:
 
