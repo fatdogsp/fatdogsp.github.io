@@ -13,9 +13,7 @@ tags:
 
 This is the **Standard RP** version of **Fatanstic SSR Water**.
 
-[Asset Store Link](https://assetstore.unity.com/packages/vfx/shaders/fantastic-ssr-water-154020?aid=1101l85Tr)
-
-[Youtube Link](https://youtu.be/8KtdqC4iNH4)
+| [Asset Store Link](https://assetstore.unity.com/packages/vfx/shaders/fantastic-ssr-water-154020?aid=1101l85Tr) | [Youtube Link](https://youtu.be/8KtdqC4iNH4) |
 
 ![](/img/urp-ssr-water/screenshot1.png)
 
