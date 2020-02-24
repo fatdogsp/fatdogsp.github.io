@@ -105,14 +105,14 @@ The final water color is mixed by reflection and refraction.
 
 ## About the examples
 
-There are four example scenes, show you how to adjust the shader's properties.
+There are four example scenes:
 
 + testSSR
 + testLighting
 + testDepthAndMuddy
 + testRoom
 
-You can check them for details.
+Choose **linear space** and check them for details.
 
 **LWRP version** is tested using unity **2019.1** and unity **2019.2**.
 
