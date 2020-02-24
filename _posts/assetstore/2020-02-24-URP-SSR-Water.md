@@ -11,15 +11,17 @@ tags:
 
 ## LWRP/URP SSR Water
 
-This is the **LWRP/URP** version of [Fatanstic SSR Water](https://assetstore.unity.com/packages/vfx/shaders/fantastic-ssr-water-154020?aid=1101l85Tr).
+This is the **LWRP/URP** version of **Fatanstic SSR Water**.
+
+[Asset Store Link](https://assetstore.unity.com/packages/vfx/shaders/lwrp-ssr-water-155402?aid=1101l85Tr)
+
+[Youtube Link](https://youtu.be/8KtdqC4iNH4)
 
 ![](/img/urp-ssr-water/screenshot1.png)
 
 ![](/img/urp-ssr-water/screenshot2.png)
 
 ![](/img/urp-ssr-water/screenshot3.png)
-
-[Youtube](https://youtu.be/8KtdqC4iNH4)
 
 ## Features
 
