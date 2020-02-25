@@ -17,7 +17,7 @@ One review:
 
 > A good asset if you use perspective camera. Unfortunately it doesn't work correctly with orthographic one which I use in my project.
 
-Oh，I didn't think about **orthographic camera**, I should support it.
+Oh，I forgot **orthographic camera**, I should support it.
 
 ## How To
 
