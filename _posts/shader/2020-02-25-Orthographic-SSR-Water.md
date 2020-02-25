@@ -83,5 +83,5 @@ I'll commit the new version soon.
 
 ## Reference
 
-I learned a lot from [Lux URP/LWRP Essentials](https://assetstore.unity.com/packages/vfx/shaders/lux-urp-lwrp-essentials-150355?aid=1101l85Tr), it's really a great asset.
+I've learned a lot from [Lux URP/LWRP Essentials](https://assetstore.unity.com/packages/vfx/shaders/lux-urp-lwrp-essentials-150355?aid=1101l85Tr), it's really a great asset.
 
