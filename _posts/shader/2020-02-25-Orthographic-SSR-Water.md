@@ -51,7 +51,7 @@ For perspective camera, I get scene depth like this:
 float sceneDepth = LinearEyeDepth(SAMPLE_DEPTH_TEXTURE(_CameraDepthTexture, sampler_CameraDepthTexture, screenMatchUVZ.xy), _ZBufferParams);
 ```
 
-But when considering orthographic camera, I should get like this:
+Above code does not work for orthographic camera, I should write like this:
 
 ```
 inline float GetOrthoDepthFromZBuffer (float rawDepth) 
@@ -73,9 +73,9 @@ float orthoSceneDepth = GetOrthoDepthFromZBuffer(rawDepth);
 return lerp(perspectiveSceneDepth, orthoSceneDepth, unity_OrthoParams.w);
 ```
 
-It's the same for computing depth from the result of **TransformWorldToHClip**.
+When computing depth from the result of **TransformWorldToHClip**, the situation is similar.
 
-SSR works well for orthographic camera now:
+My local shader works well for orthographic camera now:
 
 ![](/img/ssr-water-fix/screenshot1.png)
 
