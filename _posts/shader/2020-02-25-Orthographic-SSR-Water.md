@@ -17,7 +17,7 @@ One review:
 
 > A good asset if you use perspective camera. Unfortunately it doesn't work correctly with orthographic one which I use in my project.
 
-Yes, Orthographic Camera is not supported yet.
+Yes, orthographic camera is not supported yet.
 
 ## How to fix
 
