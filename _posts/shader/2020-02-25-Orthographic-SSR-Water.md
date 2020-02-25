@@ -75,7 +75,7 @@ return lerp(perspectiveSceneDepth, orthoSceneDepth, unity_OrthoParams.w);
 
 When computing depth from the result of **TransformWorldToHClip**, the situation is similar.
 
-My local shader works well for orthographic camera now:
+OK, my local shader works well for orthographic camera now:
 
 ![](/img/ssr-water-fix/screenshot1.png)
 
