@@ -75,7 +75,7 @@ return lerp(perspectiveSceneDepth, orthoSceneDepth, unity_OrthoParams.w);
 
 It's the same for computing depth from the result of **TransformWorldToHClip**.
 
-SSR works well Now:
+SSR works well for orthographic camera now:
 
 ![](/img/ssr-water-fix/screenshot1.png)
 
