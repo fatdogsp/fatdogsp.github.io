@@ -21,6 +21,8 @@ This is the **LWRP/URP** version of **Fatanstic SSR Water**.
 
 ![](/img/urp-ssr-water/screenshot3.png)
 
+![](/img/urp-ssr-water/screenshot15.png)
+
 ## Features
 
 + Three direction realistic waves.
@@ -106,6 +108,12 @@ SSR **Sample Count** is performance sensitive. For mobile device, max sample cou
 #### Final
 
 The final water color is mixed by reflection and refraction. 
+
+#### Orthographic Camera
+
+![](/img/urp-ssr-water/screenshot14.png)
+
+You should toggle **Orthographic Camera** if you are using an orthographic camera.
 
 ## About the examples
 
