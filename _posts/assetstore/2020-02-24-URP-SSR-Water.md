@@ -84,7 +84,7 @@ Depth is computed by **muddy scale** and camera's **view direciton**, you can al
 
 ![](/img/urp-ssr-water/screenshot9.png)
 
-Specular color is always **(0.04, 0.04, 0.04)**, and you can adjust it's intensity as you need.
+Specular color is always **(0.04, 0.04, 0.04)**, and you can adjust its intensity as you need.
 
 #### Refraction
 
