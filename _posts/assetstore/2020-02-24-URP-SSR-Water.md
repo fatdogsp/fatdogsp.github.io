@@ -117,12 +117,13 @@ You should toggle **Orthographic Camera** if you are using an orthographic camer
 
 ## About the examples
 
-There are four example scenes:
+There are five example scenes:
 
 + testSSR
 + testLighting
 + testDepthAndMuddy
 + testRoom
++ testRoomOrtho
 
 Choose **linear space** and check them for details.
 
