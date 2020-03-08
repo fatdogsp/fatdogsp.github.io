@@ -85,16 +85,15 @@ The final water color is mixed by reflection and refraction.
 
 ## About the examples
 
-There are four example scenes:
+There are 3 example scenes:
 
 + testSSR
 + testLighting
 + testDepthAndMuddy
-+ testRoom
 
 Choose **linear space** and check them for details.
 
-All demos are tested using unity 2017, 2018 and 2019.
+All demos are tested using unity 2018 and 2019.
 
 ## Customer Support:
 
