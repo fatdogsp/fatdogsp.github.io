@@ -18,13 +18,9 @@ tags:
 
 **LWRP Volumetric Lighting** is the **LWRP** version of [Fast Volumetric Lighting](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/fast-volumetric-lighting-152973?aid=1101l85Tr&pubref=BGVL).
 
-**Fast Volumetric Lighting** is an **Image Effect** based on **Radial Blur**.
-
 [Youtube](https://youtu.be/6v_wtVz6bbQ)
 
-**Radial Blur** is fast, but it requires light source inside or not far away from your screen, check [The limit of radial blur](https://youtu.be/W-jEvyuJxAQ) before you buy it.
-
-The video uses [The Illustrated Nature](https://assetstore.unity.com/packages/3d/vegetation/the-illustrated-nature-153939?aid=1101l85Tr) as the example.
+**Fast Volumetric Lighting** is a fast and high quality volumetric lighting implematation based on **Radial Blur**. 
 
 ## Features
 
@@ -96,6 +92,12 @@ Demo scenes include **day and night, indoor and outdoor, pc and mobile, one ligh
 To run these demos correctly, you should set Unity's color space to **Linear**. If you are using Gamma Space, you need readjust **Lighting Params** yourself. 
 
 Enjoy it!
+
+## About the limit
+
+**Radial Blur** is fast, but it requires light source inside or not far away from your screen, check [The limit of radial blur](https://youtu.be/W-jEvyuJxAQ) before you buy it. 
+
+The video uses [The Illustrated Nature](https://assetstore.unity.com/packages/3d/vegetation/the-illustrated-nature-153939?aid=1101l85Tr) as the example.
 
 ## Customer Support:
 
