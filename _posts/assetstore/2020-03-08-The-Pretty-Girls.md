@@ -31,8 +31,6 @@ The models are **rigged**, **3 generic animations** (idle, guard, guard_to_idle)
 
 Furthermore, **a simple avatar system** is supplied, which shows how to **put these models together** and **change clothes**.
 
----
-
 ## About the shaders
 
 #### BadDog/BGStandard
@@ -63,8 +61,6 @@ Hair uses tangent for **anisotropic specular** lighting, and **two specular laye
 **BGHair** is used by **pure hair**. 
 
 When MixTex's g channel is all hair, you can choose **BGHair** instead of **BGStandardHair** to save perfermance, and MixTex is not needed for **pure hair**.
-
----
 
 ## About BGAvatar and Change Clothes
 
@@ -101,8 +97,6 @@ Weapon and hair can be changed by the same way, and hair will be mounted to **Ha
 You can change pose to check if **BGAvatar** works correctly.
 
 ![](/img/the-pretty-girls/screenshot16.png)
-
----
 
 ## Customer Support:
 

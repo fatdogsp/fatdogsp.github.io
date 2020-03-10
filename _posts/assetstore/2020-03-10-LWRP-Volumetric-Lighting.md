@@ -18,13 +18,11 @@ tags:
 
 **LWRP Volumetric Lighting** is the **LWRP** version of [Fast Volumetric Lighting](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/fast-volumetric-lighting-152973?aid=1101l85Tr&pubref=BGVL).
 
-It's a **volumetric lighting effect** based on **radial blur**. It aims not only for PC, but also for **mobile**.
+**Fast Volumetric Lighting** is an **Image Effect** based on **Radial Blur**.
 
 [Youtube](https://youtu.be/6v_wtVz6bbQ)
 
-**Attension**: It's an **image effect based on radial blur**, it's not based on 3d meshes or ray marching. The light source should be inside or not far away from your screen. 
-
-Check the video before you buy it:  [The limit of radial blur](https://youtu.be/W-jEvyuJxAQ)
+**Radial Blur** is fast, but it requires light source inside or not far away from your screen, check [The limit of radial blur](https://youtu.be/W-jEvyuJxAQ) before you buy it.
 
 The video uses [The Illustrated Nature](https://assetstore.unity.com/packages/3d/vegetation/the-illustrated-nature-153939?aid=1101l85Tr) as the example.
 
@@ -54,7 +52,7 @@ The video uses [The Illustrated Nature](https://assetstore.unity.com/packages/3d
 
     ![](/img/volumetric-lighting/screenshot7.png) 
 
-4. Add **BGMainLight** component to the light that you want to cast volumetic lighting. **LWRP Volumetric Lighting v2.0** supports multi light casting, if you need more than one light to cast lighting, each light needs a **BGMainLight**.
+4. Add **BGMainLight** component to the light source which you need light casting. **Multi light** is also supported, if you need more than one light to cast, each light needs a **BGMainLight**.
 
     ![](/img/volumetric-lighting/screenshot8.png) 
     
@@ -80,9 +78,9 @@ The video uses [The Illustrated Nature](https://assetstore.unity.com/packages/3d
 
 1. **Quality Params Area** shows the parameters which are perfermance sensitive.
 
-2. For mobile devices, **do not add more than one BGMainLight component**, and you need smaller Render Texture(**<=512**), fewer sample count(**<= 12**), and **2-3** blur count. You will get good quality with acceptable perfermance.
+2. For mobile devices, you need fewer BGMainLight component(**<=2**), smaller Render Texture(**<=512**), fewer sample count(**<= 12**), and **2-3** blur count. You will get good quality with acceptable perfermance.
 
-3. The effect is disabled immediately when all lights are **out of view** to save more perfermance.
+3. The effect is auto disabled when all lights are **out of view** to save more perfermance.
 
 ## About the examples
 

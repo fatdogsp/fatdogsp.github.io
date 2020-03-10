@@ -9,7 +9,7 @@ tags:
   - My Assets
 ---
 
-### Simple Face Makeup
+## Simple Face Makeup
 
 ![](/img/simple-face-makeup/screenshot1.png)
 
@@ -21,9 +21,7 @@ You can also adjust **face color**, face color and makeups are finally combined 
 
 Furthermore, **a customized shader** is supplied for **face rendering**, which is also used by [The Pretty Girls](https://assetstore.unity.com/packages/3d/characters/humanoids/the-pretty-girls-157964?aid=1101l85Tr).
 
----
-
-### How to use
+## How to use
 
 You can find a demo scene **test.unity** in the examples folder which shows how to use the tool.
 
@@ -67,15 +65,11 @@ Makeup texture's alpha channel is used as a mask.
 
 Only white area can be applied to base texture.
 
----
-
 ## About the shader
 
 The shader **BadDog/BGStandard** is used for face rendering.
 
 Check [The Pretty Girls](https://fatdogsp.github.io/2020/03/08/The-Pretty-Girls/) for details.
-
----
 
 ## Customer Support:
 
