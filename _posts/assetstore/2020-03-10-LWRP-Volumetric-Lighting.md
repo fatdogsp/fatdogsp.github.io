@@ -93,9 +93,9 @@ To run these demos correctly, you should set Unity's color space to **Linear**. 
 
 Enjoy it!
 
-## About the limit
+## About the limitation
 
-**Radial Blur** is fast, but it requires light source inside or not far away from your screen, check [The limit of radial blur](https://youtu.be/W-jEvyuJxAQ) before you buy it. 
+**Radial Blur** is fast, but it requires light source inside or not far away from your screen, check [The limitation of radial blur](https://youtu.be/W-jEvyuJxAQ) before you buy it. 
 
 The video uses [The Illustrated Nature](https://assetstore.unity.com/packages/3d/vegetation/the-illustrated-nature-153939?aid=1101l85Tr) as the example.
 
