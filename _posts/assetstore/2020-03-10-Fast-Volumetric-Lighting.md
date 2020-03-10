@@ -48,7 +48,7 @@ If you need a **LWRP/URP** version, check [LWRP/URP Volumetric Lighting](https:/
 
 4. Adjust **BGVolumetricLighting's Quality Parameters** for global lighting quality.
 
-5. When light is in your camera's view, volumetric lighting will occur.
+5. When the light source is in your camera's view, volumetric lighting will occur.
 
 ## About performance
 
@@ -68,6 +68,8 @@ There are 5 example scenes.
 Demo scenes include **day and night, indoor and outdoor, pc and mobile, one light casting and multi light casting**, you can check the difference between their **Lighting Params** and **Quality Params**.
 
 To run these demos correctly, you should set Unity's color space to **Linear**. If you are using Gamma Space, you need readjust **Lighting Params** yourself. 
+
+If you are using Unity's PostProcessing Stack, please make sure that **Fast Volumetric Lighting** is executed first.
 
 ## About the limitation
 
