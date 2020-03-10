@@ -74,7 +74,7 @@ tags:
 
 1. **Quality Params Area** shows the parameters which are perfermance sensitive.
 
-2. For mobile devices, you need fewer BGMainLight component(**<=2**), smaller Render Texture(**<=512**), fewer sample count(**<= 12**), and **2-3** blur count. You will get good quality with acceptable perfermance.
+2. For mobile devices, you need fewer BGMainLight components(**<=2**), smaller Render Texture(**<=512**), fewer sample count(**<= 12**), and **2-3** blur count. You will get good quality with acceptable perfermance.
 
 3. The effect is auto disabled when all lights are **out of view** to save more perfermance.
 

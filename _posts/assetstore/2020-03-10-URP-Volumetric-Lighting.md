@@ -58,7 +58,7 @@ tags:
 
 ## About performance
 
-1. For mobile devices, you need fewer BGMainLight component(**<=2**), smaller Render Texture(**<=512**), fewer sample count(**<= 12**), and **2-3** blur count. You will get good quality with acceptable perfermance.
+1. For mobile devices, you need fewer BGMainLight components(**<=2**), smaller Render Texture(**<=512**), fewer sample count(**<= 12**), and **2-3** blur count. You will get good quality with acceptable perfermance.
 
 2. The effect is auto disabled when all lights are **out of view** to save more perfermance.
 
