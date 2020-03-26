@@ -24,7 +24,7 @@ This is the **Standard RP** version of **Forward SSR Floor**.
 + Physically correct, support metallic and smoothness.
 + Combine screen space reflection with Unity's indirect specular.
 + Support realtime lighting and lightmap.
-+ Adjustable properties for SSR quality and performance.
++ Adjustable SSR properties for quality and performance.
 + Forward SSR, mobile ready.
 + Support normal map.
 
