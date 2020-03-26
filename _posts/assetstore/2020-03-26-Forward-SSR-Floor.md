@@ -26,7 +26,6 @@ This is the **Standard RP** version of **Forward SSR Floor**.
 + Support realtime lighting and lightmap.
 + Adjustable SSR properties for quality and performance.
 + Forward SSR, mobile ready.
-+ Support normal map.
 
 ## How to use
 
