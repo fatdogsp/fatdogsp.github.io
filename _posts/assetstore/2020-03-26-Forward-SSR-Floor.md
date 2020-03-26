@@ -39,6 +39,8 @@ This is the **Standard RP** version of **Forward SSR Floor**.
 
 #### MixMap
 
+I combine metallic, ambient occlusion, emission and smoothness into one texture, and call it **MixMap**.
+
 + R: metallic
 + G: ambient occlusion
 + B: emission
