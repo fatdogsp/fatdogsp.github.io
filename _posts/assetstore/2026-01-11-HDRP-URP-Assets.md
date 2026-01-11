@@ -25,17 +25,17 @@ tags:
 
 ## Pending Review
 
-#### URP Water Reflections Pro
++ URP Water Reflections Pro
 
 ![](/img/hdrp-for-urp-2026/screenshot1.jpg)
 
 ## Implemented, not reviewed.
 
-#### HDRP's Volumetric Lighting for URP
++ HDRP's Volumetric Lighting for URP
 
 ![](/img/hdrp-for-urp-2026/screenshot2.jpg)
 
-#### HDRP's ScreenSpace Refraction for URP
++ HDRP's ScreenSpace Refraction for URP
 
 ![](/img/hdrp-for-urp-2026/screenshot3.jpg)
 
