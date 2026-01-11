@@ -2,6 +2,7 @@
 layout: post
 title: "2026 Development Plan"
 subtitle: ""
+date: 2026-01-11
 author: "Bad Fat Dog"
 header-mask: 0.2
 catalog: true
@@ -9,7 +10,7 @@ tags:
   - My Assets
 ---
 
-## key Goals
+## Key Goals
 
 + Bring all HDRP rendering features to URP
 + Use them in my indie game, Last Breath
