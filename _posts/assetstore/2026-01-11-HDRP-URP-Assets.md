@@ -46,7 +46,7 @@ tags:
 
 ## About "Last Breath"
 
-![](/img/hdrp-for-urp-2026/screenshot4.jpg)
+![](/img/hdrp-for-urp-2026/screenshot4.png)
 
 Coming Soon to Steam
 
