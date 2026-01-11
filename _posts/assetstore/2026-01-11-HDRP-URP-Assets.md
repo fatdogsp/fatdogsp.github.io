@@ -13,7 +13,7 @@ tags:
 ## Key Goals
 
 + Bring all HDRP rendering features to URP
-+ Use them in my indie game, Last Breath
++ Use them in my indie game, **Last Breath**
 
 ## Published in 2025
 
