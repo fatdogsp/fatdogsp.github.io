@@ -21,7 +21,7 @@ tags:
 | ------ | ------ | ------ |
 | [HDRP's Ambient Occlusion for URP](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/hdrp-s-ambient-occlusion-for-urp-333794?aid=1101l85Tr) | [Link](https://drive.google.com/file/d/1Bw9Ra3LlKuLKbu-AircWv276u9alcb1y/view) | [Youtube](https://youtu.be/7N_OitgiM00) |
 | [HDRP's Subsurface Scattering for URP](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/hdrp-s-subsurface-scattering-for-urp-342168?aid=1101l85Tr) | [Link](https://drive.google.com/file/d/13FeWdqXv6ZA5o34iuWDtmGAfJ1t0yqpD/view) | - |
-| [Realtime Area Light for URP](https://assetstore.unity.com/packages/vfx/shaders/realtime-area-light-for-urp-346790?aid=1101l85Tr) | [Link](https://drive.google.com/file/d/16y1C870dLnmTzEoeL7NsZve3_FjyTcu4/view) | - |
+| [Realtime Area Light for URP](https://assetstore.unity.com/packages/vfx/shaders/realtime-area-light-for-urp-346790?aid=1101l85Tr) | [Link](https://drive.google.com/file/d/16y1C870dLnmTzEoeL7NsZve3_FjyTcu4/view) | [Youtube](https://youtu.be/y0R3uQIxivQ) |
 
 ## Pending Review
 
