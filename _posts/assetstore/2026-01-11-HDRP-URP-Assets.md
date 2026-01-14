@@ -33,11 +33,11 @@ tags:
 
 + HDRP's Volumetric Lighting for URP
 
-![](/img/hdrp-for-urp-2026/screenshot2.jpg)
+[![](/img/hdrp-for-urp-2026/screenshot2.jpg)](https://store.steampowered.com/app/4298500/Last_Breath/)
 
 + HDRP's ScreenSpace Refraction for URP
 
-![](/img/hdrp-for-urp-2026/screenshot3.jpg)
+[![](/img/hdrp-for-urp-2026/screenshot3.jpg)](https://store.steampowered.com/app/4298500/Last_Breath/)
 
 ## Future plans
 
