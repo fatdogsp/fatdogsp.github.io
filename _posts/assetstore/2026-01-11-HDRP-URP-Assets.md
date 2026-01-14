@@ -46,9 +46,9 @@ tags:
 
 ## About "Last Breath"
 
-![](/img/hdrp-for-urp-2026/screenshot4.png)
+[![](/img/hdrp-for-urp-2026/screenshot4.png)](https://store.steampowered.com/app/4298500/Last_Breath/)
 
-[Last Breath](https://store.steampowered.com/app/4298500/Last_Breath/)
+[Last Breath](https://store.steampowered.com/app/4298500/Last_Breath/) | [最后的气息](https://store.steampowered.com/app/4298500/Last_Breath/)
 
 
 
